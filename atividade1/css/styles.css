@@ -1,0 +1,37 @@
+.pai {
+    float: left;
+    width: 100vh;
+    height: 100vh;
+}
+
+.azul {
+float: left;
+margin: 50px;
+background-color: blue;
+}
+
+.vermelha {
+   float: left;
+   margin: 50px;
+   background-color: red;
+}
+
+.preta {
+  float: left;
+  margin: 50px;
+  background-color: black;
+}
+
+.verde {
+    float: left;
+    margin: 50px;
+    background-color: green;
+}
+
+.amarela {
+    float: left;
+    margin: 50px;
+    width: 50vh;
+    height: 50vh;
+    background-color: yellow;
+}

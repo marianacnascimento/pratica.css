@@ -1,0 +1,23 @@
+.box1 {
+    background-color: black;
+    color: white;
+    width: 1000px;
+    height: 300px;
+    border-radius: 25px;
+    padding: 10px;
+    text-align: end;
+    font-size: 32px;
+}
+
+.box2 {
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    width: 1000px;
+    height: 300px;
+    border: 5px solid red;
+    padding: 10px;
+    text-align: end;
+    font-size: 32px;
+    overflow-y: scroll;
+}
